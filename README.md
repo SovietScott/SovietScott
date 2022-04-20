@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ... JS and NodeJs
 - 💞️ I’m looking to collaborate on ... Projects and jobs that offer a good experience
 - 📫 How to reach me ... 
-  Discord: LScott#5698
   LinkedIn: www.linkedin.com/in/lucas-ferreira-bb2936207
 
 <!---
