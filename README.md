@@ -5,11 +5,11 @@
 - 🤝 LinkedIn: www.linkedin.com/in/lucas-ferreira-bb2936207
 <img src="http://i.stack.imgur.com/SBv4T.gif" align="right"/>
 
-<h4 align="center">Linguagens mais usadas :tongue:</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SovietScott&langs_count=10&theme=tokyonight&layout=compact&show_icons=true" alt="SovietScott :: Top Langs" /></p>
+<h4 align="left">Linguagens mais usadas :tongue:</h4>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SovietScott&langs_count=10&theme=tokyonight&layout=compact&show_icons=true" alt="SovietScott :: Top Langs" /></p>
 
-<h4 align="center">Stats 🦜</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SovietScott&show_icons=true&theme=dark&show_owner=true" alt="SovietScott :: Stats"/></p>
+<h4 align="left">Stats 🦜</h4>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=SovietScott&show_icons=true&theme=dark&show_owner=true" alt="SovietScott :: Stats"/></p>
 
 <h3 align="center"> O que entendo: </h2>  
 <p align="center">
