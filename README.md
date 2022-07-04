@@ -38,7 +38,7 @@
 <h3 align="left"> :brain: E qualquer novo conhecimento é bem recebido 
 </details>
 
-<details><summary><h2 align="center">:gear: Dados sobre mim: </h2></summary><img src="https://c.tenor.com/lVBHGzX-iK4AAAAM/chopper-cute.gif" align="right" width="350" height="480">
+<details><summary><h2 align="center">:gear: Dados sobre mim: </h2></summary><img src="https://c.tenor.com/lVBHGzX-iK4AAAAM/chopper-cute.gif" align="right" width="350" height="270">
 <p align="left"> 
 <h4>Linguagens mais usadas :tongue:</h4>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SovietScott&langs_count=10&theme=tokyonight&layout=compact&show_icons=true" alt="SovietScott :: Top Langs"/></p>
