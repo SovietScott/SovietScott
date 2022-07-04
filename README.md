@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Angular
 - 💞️ I’m looking to collaborate on ... Projects and jobs that offer a good experience
 - 🤝 LinkedIn: www.linkedin.com/in/lucas-ferreira-bb2936207
-<img src="http://i.stack.imgur.com/SBv4T.gif" align="right"/>
+<img src="http://i.stack.imgur.com/SBv4T.gif" width="400" align="right"/>
 
 <h4 align="left">Linguagens mais usadas :tongue:</h4>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SovietScott&langs_count=10&theme=tokyonight&layout=compact&show_icons=true" alt="SovietScott :: Top Langs" /></p>
