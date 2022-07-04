@@ -41,9 +41,6 @@
 <h3 align="left"> :brain: E qualquer novo conhecimento é bem recebido 
 </details>
 
-<img src="https://i.pinimg.com/originals/c7/ed/fd/c7edfd413c043088322916ba487e0ed7.gif" align="right">
-
-
 <details><summary><h2 align="center">:gear: Dados sobre mim: </h2></summary>
 <p align="left">
 <h4>Linguagens mais usadas :tongue:</h4>
