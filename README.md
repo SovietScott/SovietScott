@@ -24,7 +24,7 @@
 
 <details><summary>
 <h2 align="center"> :computer: Coisas que quero entender algum dia: </h2></summary>
-<p align="center"> <img src="https://i0.wp.com/25.media.tumblr.com/e3218b5fd18ddbff092f3cea2e6c4405/tumblr_ml4b6lchbC1qde177o1_400.gif" align="right">
+<p align="center"> <img src="https://i0.wp.com/25.media.tumblr.com/e3218b5fd18ddbff092f3cea2e6c4405/tumblr_ml4b6lchbC1qde177o1_400.gif" align="right" height="180">
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
@@ -38,8 +38,8 @@
 <h3 align="left"> :brain: E qualquer novo conhecimento é bem recebido 
 </details>
 
-<details><summary><h2 align="center">:gear: Dados sobre mim: </h2></summary>
-<p align="left"> <img src="https://c.tenor.com/lVBHGzX-iK4AAAAM/chopper-cute.gif" align="right" width="400">
+<details><summary><h2 align="center">:gear: Dados sobre mim: </h2></summary><img src="https://c.tenor.com/lVBHGzX-iK4AAAAM/chopper-cute.gif" align="right" width="400" height="400">
+<p align="left"> 
 <h4>Linguagens mais usadas :tongue:</h4>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SovietScott&langs_count=10&theme=tokyonight&layout=compact&show_icons=true" alt="SovietScott :: Top Langs"/></p>
 
