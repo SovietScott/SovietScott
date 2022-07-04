@@ -3,14 +3,11 @@
 | ------------------- | ------------------- |
 | 👀 I’m interested in ... gathering experience across programming in general | [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-ferreira-bb2936207/)](https://www.linkedin.com/in/lucas-ferreira-bb2936207/) |
 | 🌱 I’m currently learning ... Angular | [![Gmail Badge](https://img.shields.io/badge/Lucas%20Ferreira-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luckdaltrox@gmail.com)](mailto:luckdaltrox@gmail.com) |
-| 💓  Passionate for helping others and being useful in general
-
-
-<img src="http://i.stack.imgur.com/SBv4T.gif" width="400" align="right"/>
+| 💓  Passionate for helping others and being useful in general 
 
 <details> <summary>
 <h2 align="center">👨‍💻 🛠 Coisas que entendo : </h2></summary>  
-<p align="center">
+<p align="center"> <img src="http://i.stack.imgur.com/SBv4T.gif" width="400" align="right"/>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -27,7 +24,7 @@
 
 <details><summary>
 <h2 align="center"> :computer: Coisas que quero entender algum dia: </h2></summary>
-<p align="center">
+<p align="center"> <img src="https://i0.wp.com/25.media.tumblr.com/e3218b5fd18ddbff092f3cea2e6c4405/tumblr_ml4b6lchbC1qde177o1_400.gif" align="right">
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
@@ -42,7 +39,7 @@
 </details>
 
 <details><summary><h2 align="center">:gear: Dados sobre mim: </h2></summary>
-<p align="left">
+<p align="left"> <img src="https://c.tenor.com/lVBHGzX-iK4AAAAM/chopper-cute.gif" align="right" width="500">
 <h4>Linguagens mais usadas :tongue:</h4>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SovietScott&langs_count=10&theme=tokyonight&layout=compact&show_icons=true" alt="SovietScott :: Top Langs"/></p>
 
