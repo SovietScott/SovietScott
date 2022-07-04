@@ -39,7 +39,7 @@
 </details>
 
 <details><summary><h2 align="center">:gear: Dados sobre mim: </h2></summary>
-<p align="left"> <img src="https://c.tenor.com/lVBHGzX-iK4AAAAM/chopper-cute.gif" align="right" width="500">
+<p align="left"> <img src="https://c.tenor.com/lVBHGzX-iK4AAAAM/chopper-cute.gif" align="right" width="400">
 <h4>Linguagens mais usadas :tongue:</h4>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SovietScott&langs_count=10&theme=tokyonight&layout=compact&show_icons=true" alt="SovietScott :: Top Langs"/></p>
 
