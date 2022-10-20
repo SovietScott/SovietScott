@@ -7,7 +7,7 @@
 
 <details> <summary>
 <h2 align="center">👨‍💻 🛠 Coisas que entendo : </h2></summary>  
-<p align="center"> <img src="http://i.stack.imgur.com/SBv4T.gif" width="400" align="right"/>
+<p align="center"> <img src="https://octodex.github.com/images/baracktocat.jpg" width="200" align="right"/>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -38,17 +38,21 @@
 <h3 align="left"> :brain: E qualquer novo conhecimento é bem recebido 
 </details>
 
-<details><summary><h2 align="center">:gear: Dados sobre mim: </h2></summary><img src="https://c.tenor.com/lVBHGzX-iK4AAAAM/chopper-cute.gif" align="right" width="350" height="270">
-<p align="left"> 
-<h4>Linguagens mais usadas :tongue:</h4>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SovietScott&langs_count=10&theme=tokyonight&layout=compact&show_icons=true" alt="SovietScott :: Top Langs"/></p>
+<details><summary><h2 align="center">:gear: Dados sobre mim: </h2></summary>
 
-<p align="left">
-<h4 align="left">Stats 🦜</h4>
-<img src="https://github-readme-stats.vercel.app/api?username=SovietScott&show_icons=true&theme=radical&show_owner=true" alt="SovietScott :: Stats" /></p>
+<div class='container'>
+ <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=SovietScott&show_icons=true&theme=radical&show_owner=true" alt="SovietScott :: Stats"/>
+&nbsp;
+&nbsp;
+ <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SovietScott&langs_count=10&theme=tokyonight&layout=compact&show_icons=true" alt="SovietScott :: Top Langs"/>
+</div> 
+ 
+ 
+ </div>
+
 </details>
 
- ![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
 
 
 
