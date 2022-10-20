@@ -48,4 +48,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=SovietScott&show_icons=true&theme=radical&show_owner=true" alt="SovietScott :: Stats" /></p>
 </details>
 
+ ![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
+
+
 
