@@ -27,7 +27,7 @@
 
 <details><summary>
 <h2 align="center"> :computer: Coisas que quero entender algum dia: </h2></summary>
-<p align="center"> <img src="https://camo.githubusercontent.com/c553aa5d827cbfee045010c32a600267d75f458c761410fe2a0fa9d67f46b92c/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f4e79744d4c4b79696149683656483953506d2f67697068792e676966" align="right" width="350" height="180">
+<p align="center"> <img src="https://camo.githubusercontent.com/c553aa5d827cbfee045010c32a600267d75f458c761410fe2a0fa9d67f46b92c/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f4e79744d4c4b79696149683656483953506d2f67697068792e676966" align="right" width="250">
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
