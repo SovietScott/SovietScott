@@ -1,8 +1,8 @@
-# <img src="https://camo.githubusercontent.com/b40aa6e0a49e00065a11b3773f9f4d7098be2fed4da538a0a32abb74992a7869/68747470733a2f2f726973686176616e616e642e6769746875622e696f2f7374617469632f696d616765732f6772656574696e67732e676966">
+# <p align="center"><img src="https://gifdb.com/images/high/cute-mini-typing-cat-d6gdd3z7yr66oktz.gif"></p>
 | 👾 About me: |  📱 Contact me on : |
 | ------------------- | ------------------- |
 | 👀 I’m interested in ... gathering experience across programming in general | [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-ferreira-bb2936207/)](https://www.linkedin.com/in/lucas-ferreira-bb2936207/) |
-| 🌱 I’m currently learning ... Angular | [![Gmail Badge](https://img.shields.io/badge/Lucas%20Ferreira-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luckdaltrox@gmail.com)](mailto:luckdaltrox@gmail.com) |
+| 🌱 I’m currently learning ... Angular and Spring Boot| [![Gmail Badge](https://img.shields.io/badge/Lucas%20Ferreira-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luckdaltrox@gmail.com)](mailto:luckdaltrox@gmail.com) |
 | 💓  Passionate for helping others and being useful in general 
 
 <img style="width: 320px" align="right" src="https://user-images.githubusercontent.com/82814760/216120531-2970827d-c3ab-4d43-aab4-764ddadb94ca.png" />
