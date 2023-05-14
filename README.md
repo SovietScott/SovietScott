@@ -1,26 +1,28 @@
 # <p align="center"><img src="https://gifdb.com/images/high/cute-mini-typing-cat-d6gdd3z7yr66oktz.gif"></p>
 | 👾 About me: |  📱 Contact me on : |
 | ------------------- | ------------------- |
-| 👀 I’m interested in ... gathering experience across programming in general | [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-ferreira-bb2936207/)](https://www.linkedin.com/in/lucas-ferreira-bb2936207/) |
-| 🌱 I’m currently learning ... Angular and Spring Boot| [![Gmail Badge](https://img.shields.io/badge/Lucas%20Ferreira-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luckdaltrox@gmail.com)](mailto:luckdaltrox@gmail.com) |
+| 👀 I’m interested in gathering experience across programming in general | [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-ferreira-bb2936207/)](https://www.linkedin.com/in/lucas-ferreira-bb2936207/) |
+| 🌱 I’m currently improving my BackEnd | [![Gmail Badge](https://img.shields.io/badge/Lucas%20Ferreira-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luckdaltrox@gmail.com)](mailto:luckdaltrox@gmail.com) |
 | 💓  Passionate for helping others and being useful in general 
 
-<img style="width: 320px" align="right" src="https://user-images.githubusercontent.com/82814760/216120531-2970827d-c3ab-4d43-aab4-764ddadb94ca.png" />
+
 
 <details> <summary>
 <h2 align="center">🛠 Coisas que entendo : </h2></summary>  
 <p align="center"> <img src="https://octodex.github.com/images/baracktocat.jpg" width="200" align="right"/>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code> 
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code> 
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> 
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> 
 </p>
 <h3 align="left"> 🤠 E tudo que for necessário aprender ou que me for ensinado </h2>
 </details>
