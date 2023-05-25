@@ -1,11 +1,44 @@
-# <p align="center"><img src="https://gifdb.com/images/high/cute-mini-typing-cat-d6gdd3z7yr66oktz.gif"></p>
+<pre>
+                                                                                                     
+@@@  @@@  @@@@@@@@  @@@       @@@        @@@@@@                                                      
+@@@  @@@  @@@@@@@@  @@@       @@@       @@@@@@@@                                                     
+@@!  @@@  @@!       @@!       @@!       @@!  @@@                                                     
+!@!  @!@  !@!       !@!       !@!       !@!  @!@                                                     
+@!@!@!@!  @!!!:!    @!!       @!!       @!@  !@!                                                     
+!!!@!!!!  !!!!!:    !!!       !!!       !@!  !!!                                                     
+!!:  !!!  !!:       !!:       !!:       !!:  !!!                                                     
+:!:  !:!  :!:        :!:       :!:      :!:  !:!  :!:                                                
+::   :::   :: ::::   :: ::::   :: ::::  ::::: ::   ::                                                
+ :   : :  : :: ::   : :: : :  : :: : :   : :  :   ::                                                 
+@@@  @@@  @@@  @@@@@@@@  @@@        @@@@@@@   @@@@@@   @@@@@@@@@@   @@@@@@@@    @@@@@@@   @@@@@@     
+@@@  @@@  @@@  @@@@@@@@  @@@       @@@@@@@@  @@@@@@@@  @@@@@@@@@@@  @@@@@@@@    @@@@@@@  @@@@@@@@    
+@@!  @@!  @@!  @@!       @@!       !@@       @@!  @@@  @@! @@! @@!  @@!           @@!    @@!  @@@    
+!@!  !@!  !@!  !@!       !@!       !@!       !@!  @!@  !@! !@! !@!  !@!           !@!    !@!  @!@    
+@!!  !!@  @!@  @!!!:!    @!!       !@!       @!@  !@!  @!! !!@ @!@  @!!!:!        @!!    @!@  !@!    
+!@!  !!!  !@!  !!!!!:    !!!       !!!       !@!  !!!  !@!   ! !@!  !!!!!:        !!!    !@!  !!!    
+!!:  !!:  !!:  !!:       !!:       :!!       !!:  !!!  !!:     !!:  !!:           !!:    !!:  !!!    
+:!:  :!:  :!:  :!:        :!:      :!:       :!:  !:!  :!:     :!:  :!:           :!:    :!:  !:!    
+ :::: :: :::    :: ::::   :: ::::   ::: :::  ::::: ::  :::     ::    :: ::::       ::    ::::: ::    
+  :: :  : :    : :: ::   : :: : :   :: :: :   : :  :    :      :    : :: ::        :      : :  :     
+@@@@@@@@@@   @@@ @@@    @@@@@@@   @@@@@@@    @@@@@@   @@@@@@@@  @@@  @@@       @@@@@@@@              
+@@@@@@@@@@@  @@@ @@@    @@@@@@@@  @@@@@@@@  @@@@@@@@  @@@@@@@@  @@@  @@@       @@@@@@@@              
+@@! @@! @@!  @@! !@@    @@!  @@@  @@!  @@@  @@!  @@@  @@!       @@!  @@!       @@!                   
+!@! !@! !@!  !@! @!!    !@!  @!@  !@!  @!@  !@!  @!@  !@!       !@!  !@!       !@!                   
+@!! !!@ @!@   !@!@!     @!@@!@!   @!@!!@!   @!@  !@!  @!!!:!    !!@  @!!       @!!!:!                
+!@!   ! !@!    @!!!     !!@!!!    !!@!@!    !@!  !!!  !!!!!:    !!!  !!!       !!!!!:                
+!!:     !!:    !!:      !!:       !!: :!!   !!:  !!!  !!:       !!:  !!:       !!:                   
+:!:     :!:    :!:      :!:       :!:  !:!  :!:  !:!  :!:       :!:   :!:      :!:                   
+:::     ::      ::       ::       ::   :::  ::::: ::   ::        ::   :: ::::   :: ::::              
+ :      :       :        :         :   : :   : :  :    :        :    : :: : :  : :: ::               
+                                                                                                     
+</pre>
+
+#
 | 👾 About me: |  📱 Contact me on : |
 | ------------------- | ------------------- |
 | 👀 I’m interested in gathering experience across programming in general | [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-ferreira-bb2936207/)](https://www.linkedin.com/in/lucas-ferreira-bb2936207/) |
 | 🌱 I’m currently improving my BackEnd | [![Gmail Badge](https://img.shields.io/badge/Lucas%20Ferreira-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luckdaltrox@gmail.com)](mailto:luckdaltrox@gmail.com) |
 | 💓  Passionate for helping others and being useful in general 
-
-
 
 <details> <summary>
 <h2 align="center">🛠 Coisas que entendo : </h2></summary>  
@@ -29,7 +62,7 @@
 
 <details><summary>
 <h2 align="center"> :computer: Coisas que quero entender algum dia: </h2></summary>
-<p align="center"> <img src="https://camo.githubusercontent.com/c553aa5d827cbfee045010c32a600267d75f458c761410fe2a0fa9d67f46b92c/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f4e79744d4c4b79696149683656483953506d2f67697068792e676966" align="right" width="250">
+<p align="center"> <img src="https://gifdb.com/images/high/cute-mini-typing-cat-d6gdd3z7yr66oktz.gif" align="right" width="250">
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
